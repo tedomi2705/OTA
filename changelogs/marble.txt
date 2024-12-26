@@ -1,0 +1,21 @@
+This is Android 15 QPR1 with December 2024 security patches
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- Make sure to be on HyperOS firmware first.
+- Use latest TWRP or OFRP-R11.1_6-Beta-marble.zip as recovery.
+- Clean flash is required if coming from March 2024 or older builds.
+- Install LosKsu10.x.zip (https://sourceforge.net/projects/evolution-x/files/marble/15/LosKsu10.x.zip/download) for root.
+- Play Integrity passes, RCS works (As of 12/25/2024).
+- Includes Dolby Atmos, POCO camera.
+- Credits to Arian16k, GR, Chaitanya, Adrianyyyy.
+
+Device changes:
+==============================
+None
+
+Notable ROM changes:
+==============================
+Initial Android 15 QPR1 release
+Merge December 2024 security patches
