@@ -7,7 +7,7 @@ Notes:
 - Use latest TWRP or OFRP-R11.1_6-Beta-marble.zip as recovery.
 - Clean flash is required if coming from March 2024 or older builds.
 - Install LosKsu10.x.zip (https://sourceforge.net/projects/evolution-x/files/marble/15/LosKsu10.x.zip/download) for root.
-- Play Integrity passes, RCS works (As of 12/25/2024).
+- Play Integrity passes, RCS works (As of 12/27/2024).
 - Includes Dolby Atmos, POCO camera.
 - Credits to Arian16k, GR, Chaitanya, Adrianyyyy.
 
@@ -17,5 +17,8 @@ None
 
 Notable ROM changes:
 ==============================
-Initial Android 15 QPR1 release
-Merge December 2024 security patches
+GamesPropsUtils: Spoof as S24 Ultra for Diablo Immortal
+GamesPropsUtils: Update spoof for PUBG and Tencent Games
+Settings: Add option to cycle through ringer modes
+Settings: Add Pixel Launcher to allowlist for settings search
+SystemUIClocks: Drop SystemUIClocks-Weather
