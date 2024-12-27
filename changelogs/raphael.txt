@@ -1,0 +1,17 @@
+This is Android 15 QPR1 with December 2024 security patches
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Kernel is already pre-rooted with KSU. Just install the KSU app.
+- Play Integrity passes, RCS works (As of 12/27/2024).
+
+Device changes:
+==============================
+Check here: https://github.com/Evolution-X-Devices/device_xiaomi_raphael/commits/vic/
+
+Notable ROM changes:
+==============================
+Initial Android 15 QPR1 release
+Merge December 2024 security patches
