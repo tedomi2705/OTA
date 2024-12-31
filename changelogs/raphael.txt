@@ -5,13 +5,22 @@ Notes:
 - LineageOS-based source. Signed build.
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 - Kernel is already pre-rooted with KSU. Just install the KSU app.
-- Play Integrity passes, RCS works (As of 12/27/2024).
+- Play Integrity passes, RCS works (As of 12/31/2024).
 
 Device changes:
 ==============================
-Check here: https://github.com/Evolution-X-Devices/device_xiaomi_raphael/commits/vic/
+sepolicy: Drop duplicate entry for icnss/wakeup
 
 Notable ROM changes:
 ==============================
-Initial Android 15 QPR1 release
-Merge December 2024 security patches
+Add back auto aod schedule
+Add back auto dim schedule
+Add back floating rotation toggle
+Add back showing ambient instead of fully waking screen
+Add back QS tile customization 
+Add back QS panel styles
+Add back QS tile styles (A11)
+Add back volume steps
+Fix Google battery widget
+Fix SystemUI crashes
+Fix volume slider haptic feedback toggle
