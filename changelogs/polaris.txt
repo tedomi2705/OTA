@@ -1,0 +1,11 @@
+Recovery: https://sourceforge.net/projects/evolution-x/files/polaris/15/images/recovery.img/download
+
+This is Android 15 with December 2024 security patches
+Device changes:
+=======================
+Lower swappiness to 60
+Tuned lmkd parameters
+
+Rom changes:
+=======================
+Initial Android 15 release
