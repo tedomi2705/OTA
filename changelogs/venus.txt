@@ -1,0 +1,16 @@
+This is Android 15 QPR1 with December 2024 security patches
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- Play Integrity passes, RCS works (As of 1/2/2025).
+- Includes Xiaomi parts, Dolby and Leica camera.
+- Credits to Arian16k, FlowerSea, GR, RobertGarciaa.
+
+Device changes:
+==============================
+Use sm8350-common tree by RobertGarciaa
+
+Notable ROM changes:
+==============================
+Initial Android 15 QPR1 release
