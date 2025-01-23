@@ -3,9 +3,14 @@ Recovery: https://sourceforge.net/projects/evolution-x/files/polaris/15/images/r
 This is Android 15 with December 2024 security patches
 Device changes:
 =======================
-Lower swappiness to 60
-Tuned lmkd parameters
+Bring back prebuilt Chrome
+enable unspecialized app process pool
+Enable PowerOffAlarm
+Enable 2.4GHz channel bonding
+Stop pinning camera app in memory
+
 
 Rom changes:
 =======================
-Initial Android 15 release
+Added all missing customization
+January security patches
